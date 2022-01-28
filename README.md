@@ -2,7 +2,7 @@
 
 ### This repository is to evaluate the performance of different algorithmic, hedge, and mutual fund portfolios against the S&P TSX 60 Index.
 
-DataFrames were cleaned, sorted and combined into a single DataFrame. 
+Data was cleaned, sorted and combined into a single DataFrame. 
 
 Quantitative analysis performed on the data to measure:
 * performance
