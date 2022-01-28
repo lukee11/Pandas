@@ -13,7 +13,7 @@ Quantitative analysis performed on the data to measure:
  This analysis was used to compare with another custom portfolio, as well as the larger market ([S&P TSX 60 Index](https://en.wikipedia.org/wiki/S%26P/TSX_60)).
 
 
-![all_returns](Images/all_returns.png)
+![all_returns](Images/all_returns.PNG)
 
 ---
 
