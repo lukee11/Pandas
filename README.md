@@ -18,12 +18,11 @@ Quantitative analysis performed on the data to measure:
 ---
 
 ## Built with
-* Python
-* Pandas
-* Python
-* Pathlib
-* Matplotlib
-* Seaborn
+* python
+* pandas
+* pathlib
+* matplotlib
+* seaborn
 
 ---
 
