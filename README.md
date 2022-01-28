@@ -4,7 +4,7 @@
 
 DataFrames were cleaned, sorted and combined into a single DataFrame. 
 
-Quantative analysis performed on the data to measure:
+Quantitative analysis performed on the data to measure:
 * performance
 * risk
 * rolling statistics
